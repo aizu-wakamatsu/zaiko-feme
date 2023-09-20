@@ -1,6 +1,5 @@
-# zaiko-femme
-在庫管理Femme
+# zaiko-feme
+在庫管理Feme
 ---
-Femmeに深い意味は無くて、ただHommeの対義語だ、というだけです。
 
 在庫というより、固定資産の管理用ツールになる予定です。
