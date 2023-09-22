@@ -1,5 +1,5 @@
-# zaiko-femme
-在庫管理Femme
+# zaiko-feme
+在庫管理Feme
 ---
 ---
 ## 前書き
@@ -7,7 +7,7 @@
 
 リポジトリの名前ですが。。
 
-(cat)home = (fre)homme - (fre)homme ↔ (fre)femme = (ang)feme
+`(cat)home = (fre)homme - (fre)homme ↔ (fre)femme = (ang)feme`
 
 ## 概要
 ハイミナサンコンニチハ！！突然ですがぁ、使いたいガジェットがわからない？オフィスに？実家に？学校に？どこあるかわからない時、ありますよねｴｯダイジョウブ！！在庫管理Femeがあれば、ガジェットのありかをデータベースとし登録して管理が楽！楽！になっちゃうんです！！（ライトニング・トークなので、Typoはわざとです。）
