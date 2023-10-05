@@ -1,7 +1,6 @@
-# zaiko-feme
-在庫管理Feme
+# 在庫管理Feme
 ---
-## ルートのファイル一覧
+#### ルートのファイル一覧
 - [README](README.md) - このファイル
 - [参考情報リスト](list-refs.md) - 参考にした図書等のリスト
 - [部品feme](parts-feme.md) - 追加でつくりたいアイデア
