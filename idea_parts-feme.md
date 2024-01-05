@@ -1,4 +1,5 @@
 # parts-feme
+zaiko-femeから派生したアイデア
 
 ## 概要
 
